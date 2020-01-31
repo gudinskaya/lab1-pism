@@ -1,0 +1,9 @@
+interfaces/DAO.class
+servlet/books/DeleteBook.class
+servlet/books/BooksServlet.class
+dao/BookDAO$sql.class
+dao/BookDAO.class
+servlet/books/UpdateBook.class
+entity/Book.class
+dao/impl/BookImpl.class
+dao/GetConnection.class
